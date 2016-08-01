@@ -13,8 +13,8 @@ namespace VirtualPet
             VirtualPet grumpyBear = new VirtualPet();
             string something;
             string bearName;
-            Console.WriteLine("Welcome to the Grumpy Bear App! What do you want to name your bear? ");
-            bearName = Console.ReadLine();
+            Console.WriteLine("Welcome to the Grumpy Bear App! ");
+            //bearName = Console.ReadLine();
             int typeOfBear;
             Console.WriteLine("What kind of bear do you want to be?");
             Console.WriteLine("Press 1 for Polar, Press 2 for Grizzly, Press 3 for Panda, or Press 4 for Koala");

@@ -112,7 +112,7 @@ namespace VirtualPet
 
         public void PrintStats()
         {
-            Console.WriteLine("Your Grumpy Bear's Name is: " + this.name);
+            //Console.WriteLine("Your Grumpy Bear's Name is: " + this.name);
             Console.WriteLine("Money: " + this.money);
             Console.WriteLine("Hunger: " + this.hunger);
             Console.WriteLine("Happiness: " + this.happiness);
